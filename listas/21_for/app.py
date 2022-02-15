@@ -5,7 +5,7 @@ print(lista)
 for n in lista:
   print(n)
 
-  i = 0
+  
 
   
 
