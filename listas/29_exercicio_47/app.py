@@ -13,4 +13,4 @@ print(produtos[2][2])
 print(produtos[2][0])
 
 for produtos in produtos:
-  print("O produto é: %s" % produtos[0])
+  print("O produto é: %s e tem a cor %s e o seu preço é: R$%.2f" % (produtos[0], produtos[1], produtos[2]))
